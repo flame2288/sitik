@@ -1,0 +1,612 @@
+
+body {
+height: 900px;
+width: 1600px;
+left: -720px;
+top: -512px;
+border-radius: 0px;
+background: #99C7CA;}
+
+.fut{
+  position: absolute;
+  width: 209.9px;
+  height: 853.56px;
+  left: 1338px;
+  top: 23px;
+  }
+  .futb{
+  position: absolute;
+  width: 209.9px;
+  height: 854.35px;
+  left: 53px;
+  top: 24px;  
+
+  }
+  .g{
+    position: absolute;
+    width: 339px;
+    height: 0px;
+    left: 620px;
+    top: 83px;
+    
+    font-family: 'Pangolin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 60px;
+    /* identical to box height */
+    
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.075em;
+    
+    color: #000000;
+  }
+.gg{
+  /* Rectangle 1 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 927px;
+height: 98px;
+left: 336px;
+top: 62px;
+
+border: 1px solid #000000;
+border-radius: 15px;
+}
+.f{
+/* Rectangle 6 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 403px;
+height: 86px;
+left: 336px;
+top: 172px;
+
+border: 1px solid #0B0B0B;
+border-radius: 15px;
+}
+.d{
+/* Rectangle 12 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 403px;
+height: 86px;
+left: 860px;
+top: 172px;
+
+border: 1px solid #0B0B0B;
+border-radius: 15px;
+}
+.ff{
+/* Rectangle 7 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 403px;
+height: 86px;
+left: 336px;
+top: 269px;
+
+border: 1px solid #0B0B0B;
+border-radius: 15px;
+}
+.dd{
+/* Rectangle 13 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 403px;
+height: 86px;
+left: 860px;
+top: 269px;
+
+border: 1px solid #0B0B0B;
+border-radius: 15px;
+}
+.fff{
+/* Rectangle 8 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 403px;
+height: 86px;
+left: 336px;
+top: 366px;
+
+border: 1px solid #0B0B0B;
+border-radius: 15px;
+}
+.ddd{
+/* Rectangle 14 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 403px;
+height: 86px;
+left: 860px;
+top: 366px;
+
+border: 1px solid #0B0B0B;
+border-radius: 15px;
+}
+.ffff{
+/* Rectangle 9 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 403px;
+height: 86px;
+left: 336px;
+top: 463px;
+
+border: 1px solid #0B0B0B;
+border-radius: 15px;
+}
+.dddd{
+/* Rectangle 15 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 403px;
+height: 86px;
+left: 860px;
+top: 463px;
+
+border: 1px solid #0B0B0B;
+border-radius: 15px;
+}
+.fffff{
+/* Rectangle 10 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 403px;
+height: 86px;
+left: 336px;
+top: 560px;
+
+border: 1px solid #0B0B0B;
+border-radius: 15px;
+}
+.ddddd{
+/* Rectangle 16 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 403px;
+height: 86px;
+left: 860px;
+top: 560px;
+
+border: 1px solid #0B0B0B;
+border-radius: 15px;
+}
+.ffffff{
+/* Rectangle 11 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 403px;
+height: 86px;
+left: 336px;
+top: 657px;
+
+border: 1px solid #0B0B0B;
+border-radius: 15px;
+}
+.dddddd{
+/* Rectangle 17 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 403px;
+height: 86px;
+left: 860px;
+top: 657px;
+
+border: 1px solid #0B0B0B;
+border-radius: 15px;
+}
+.fffffff{
+/* Rectangle 18 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 403px;
+height: 86px;
+left: 598px;
+top: 770px;
+
+border: 1px solid #0B0B0B;
+border-radius: 15px;
+}
+.ddddddd{
+/* ОТПРАВИТЬ */
+
+
+position: absolute;
+width: 253px;
+height: 60px;
+left: 673px;
+top: 754px;
+
+font-family: 'Pangolin';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 60px;
+/* identical to box height */
+
+text-align: center;
+
+color: #000000;
+
+}
+.l{
+  /* Фамилия Имя Отчество */
+
+
+position: absolute;
+width: 290px;
+height: 36px;
+left: 396px;
+top: 188px;
+
+font-family: 'Pangolin';
+font-style: normal;
+font-weight: 400;
+font-size: 29px;
+line-height: 36px;
+text-align: center;
+
+color: #000000;
+
+}
+.ll{
+  /* Дата рождения (ДД.ММ.ГГ) */
+
+
+position: absolute;
+width: 329px;
+height: 36px;
+left: 373px;
+top: 285px;
+
+font-family: 'Pangolin';
+font-style: normal;
+font-weight: 400;
+font-size: 29px;
+line-height: 36px;
+text-align: center;
+
+color: #000000;
+
+}
+.lll{
+  /* Номер телефона */
+
+
+position: absolute;
+width: 210px;
+height: 36px;
+left: 432px;
+top: 382px;
+
+font-family: 'Pangolin';
+font-style: normal;
+font-weight: 400;
+font-size: 29px;
+line-height: 36px;
+text-align: center;
+color: #000000;
+}
+.llll{
+  /* Адрес электронной почты */
+
+
+position: absolute;
+width: 332px;
+height: 36px;
+left: 371px;
+top: 479px;
+
+font-family: 'Pangolin';
+font-style: normal;
+font-weight: 400;
+font-size: 29px;
+line-height: 36px;
+text-align: center;
+
+color: #000000;
+}
+.lllll{
+  /* Пароль */
+
+
+position: absolute;
+width: 89px;
+height: 36px;
+left: 493px;
+top: 576px;
+
+font-family: 'Pangolin';
+font-style: normal;
+font-weight: 400;
+font-size: 29px;
+line-height: 36px;
+text-align: center;
+
+color: #000000;
+
+}
+.llllll{
+  /* Подтверждение пароля */
+
+
+position: absolute;
+width: 292px;
+height: 36px;
+left: 391px;
+top: 673px;
+
+font-family: 'Pangolin';
+font-style: normal;
+font-weight: 400;
+font-size: 29px;
+line-height: 36px;
+text-align: center;
+
+color: #000000;
+
+}
+.str1{
+position: absolute;
+width: 53.33px;
+height: 30px;
+left: 773px;
+top: 210px;
+}
+.str2{
+position: absolute;
+width: 53.33px;
+height: 30px;
+left: 773px;
+top: 310px;
+}
+.str3{
+position: absolute;
+width: 53.33px;
+height: 30px;
+left: 773px;
+top: 410px;
+}
+.str4{
+position: absolute;
+width: 53.33px;
+height: 30px;
+left: 773px;
+top: 510px;}
+.str5{
+position: absolute;
+width: 53.33px;
+height: 30px;
+left: 773px;
+top: 610px;}
+.str6{
+position: absolute;
+width: 53.33px;
+height: 30px;
+left: 773px;
+top: 700px;}
+/* Стили самой формы */
+.content {
+  display: flex; /* делаем колонки в ряд */
+  align-items: center; /* выравниваем по центру */
+  justify-content: space-between; /* колонки растянутся на всю ширину */
+  background: #fff;
+  padding: 40px;
+  border-radius: 5px;
+  box-shadow: 4px 4px 8px 0 rgba(34, 60, 80, 0.2);
+}
+.m{
+  box-sizing: border-box;
+
+
+  position: absolute;
+  width: 403px;
+  height: 86px;
+  left: 860px;
+  top: 188px;
+  background: #99C7CA;
+  border: 1px solid #0B0B0B;
+  border-radius: 15px; 
+  font-family: 'Pangolin';
+font-style: normal;
+font-weight: 400;
+font-size: 29px;
+line-height: 36px;
+text-align: center;
+}
+.mm{
+box-sizing: border-box;
+position: absolute;
+width: 403px;
+height: 86px;
+left: 860px;
+top: 285px;
+border: 1px solid #0B0B0B;
+border-radius: 15px;
+background: #99C7CA;
+font-family: 'Pangolin';
+font-style: normal;
+font-weight: 400;
+font-size: 29px;
+line-height: 36px;
+text-align: center;
+}
+.mmm{
+box-sizing: border-box;
+position: absolute;
+width: 403px;
+height: 86px;
+left: 860px;
+top: 382px;
+border: 1px solid #0B0B0B;
+border-radius: 15px;
+background: #99C7CA;
+font-family: 'Pangolin';
+font-style: normal;
+font-weight: 400;
+font-size: 29px;
+line-height: 36px;
+text-align: center;
+}
+.mmmm{
+  box-sizing: border-box;
+
+position: absolute;
+width: 403px;
+height: 86px;
+left: 860px;
+top: 479px;
+
+border: 1px solid #0B0B0B;
+border-radius: 15px;
+  background: #99C7CA;
+  font-family: 'Pangolin';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 29px;
+  line-height: 36px;
+  text-align: center;
+  }
+  .mmmmm{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 403px;
+    height: 86px;
+    left: 860px;
+    top: 576px;
+    
+    border: 1px solid #0B0B0B;
+    border-radius: 15px;
+    background: #99C7CA;
+    font-family: 'Pangolin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 29px;
+    line-height: 36px;
+    text-align: center;
+    }
+    .mmmmmm{
+      box-sizing: border-box;
+  
+      position: absolute;
+      width: 403px;
+      height: 86px;
+      left: 860px;
+      top: 673px;
+      
+      border: 1px solid #0B0B0B;
+      border-radius: 15px;
+      background: #99C7CA;
+      font-family: 'Pangolin';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 29px;
+      line-height: 36px;
+      text-align: center;
+      }
+.cccc{
+/* Rectangle 3 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 361.78px;
+height: 50.85px;
+left: 1246.72px;
+top: 0px;
+
+border: 1px solid #000000;
+border-radius: 15px;
+transform: matrix(0.98, 0.17, -0.15, 0.99, 0, 0);
+
+
+/* LIMPOPUSICHEK */
+
+
+position: absolute;
+width: 354.1px;
+height: 37.89px;
+left: 1246.75px;
+top: 6px;
+
+font-family: 'ABeeZee';
+font-style: italic;
+font-weight: 400;
+font-size: 32px;
+line-height: 38px;
+/* identical to box height */
+
+text-align: center;
+letter-spacing: 0.25em;
+
+color: #0C0B0B;
+
+transform: matrix(0.98, 0.17, -0.15, 0.99, 0, 0);
+}
+.mmmmmmm{
+  box-sizing: border-box;
+
+position: absolute;
+width: 403px;
+height: 86px;
+left: 598px;
+top: 786px;
+
+border: 1px solid #0B0B0B;
+border-radius: 15px;
+  background: #99C7CA;
+  font-family: 'Pangolin';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 36px;
+  text-align: center;
+  }

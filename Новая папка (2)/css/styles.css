@@ -1,0 +1,279 @@
+
+body {
+height: 900px;
+width: 1600px;
+left: -720px;
+top: -512px;
+border-radius: 0px;
+background: #99C7CA;
+
+}
+
+.pp{
+/* Rectangle 22 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 905px;
+height: 104px;
+left: 700px;
+top: 50px;
+
+border: 1px solid #000000;
+border-radius: 15px;
+
+
+/* СОЗДАЙ СВОЮ ФУТБОЛКУ САМ */
+
+
+position: absolute;
+width: 905px;
+height: 80px;
+left: 356px;
+top: 30px;
+
+font-family: 'Pangolin';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 60px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.085em;
+
+color: #000000;
+}
+.cc{
+/* Rectangle 2 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 905px;
+height: 190px;
+left: 356px;
+top: 208px;
+
+border: 1px solid #000000;
+border-radius: 15px;
+
+
+/* Покупая футболку у нас Вы получайте уникальный товар с уникальным дизайном по приемлемой цене.Также, если вы заказываете у нас товар на сумму более 5000 рублей то получайте еще одну футболку с уникальным дизайном в подарок. Оставите заявку и с вами свяжутся */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 905px;
+height: 203px;
+left: 356px;
+top: 181px;
+
+font-family: 'Pangolin';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 37px;
+text-align: center;
+letter-spacing: 0.015em;
+
+color: #000000;
+}
+.ccc{
+/* Многие остались довольны товаром и уже активно пользуются им */
+
+
+position: absolute;
+width: 905px;
+height: 93px;
+left: 356px;
+top: 470px;
+
+font-family: 'Pangolin';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 75px;
+text-align: center;
+
+color: #000000;
+
+
+/* Rectangle 21 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 905px;
+height: 81px;
+left: 355.85px;
+top: 437px;
+
+border: 1px solid #000000;
+border-radius: 15px;}
+.cp{
+/* Оставь заявку прямо сейчас, следи за своей модой и будь в тренде */
+
+
+position: absolute;
+width: 877px;
+height: 93px;
+left: 365px;
+top: 633px;
+
+font-family: 'Pangolin';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 85px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Rectangle 5 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 905px;
+height: 96px;
+left: 356px;
+top: 570px;
+
+border: 1px solid #000000;
+border-radius: 15px;
+  
+}
+.ccpp{
+/* Rectangle 19 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 905px;
+height: 86px;
+left: 350px;
+top: 737px;
+
+border: 1px solid #0B0B0B;
+border-radius: 15px;
+
+
+/* РЕГИСТРАЦИЯ ПРЯМО СЕЙЧАС */
+
+
+position: absolute;
+width: 905px;
+height: 90px;
+left: 356px;
+top: 701px;
+
+font-family: 'Pangolin';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 85px;
+/* identical to box height */
+
+text-align: center;
+
+color: #000000;
+
+border: 0.5px solid #000000;
+  
+}
+.cccc{
+/* Rectangle 3 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 361.78px;
+height: 50.85px;
+left: 1246.72px;
+top: 0px;
+
+border: 1px solid #000000;
+border-radius: 15px;
+transform: matrix(0.98, 0.17, -0.15, 0.99, 0, 0);
+
+
+/* LIMPOPUSICHEK */
+
+
+position: absolute;
+width: 354.1px;
+height: 37.89px;
+left: 1246.75px;
+top: 6px;
+
+font-family: 'ABeeZee';
+font-style: italic;
+font-weight: 400;
+font-size: 32px;
+line-height: 38px;
+/* identical to box height */
+
+text-align: center;
+letter-spacing: 0.25em;
+
+color: #0C0B0B;
+
+transform: matrix(0.98, 0.17, -0.15, 0.99, 0, 0);
+}
+.fut{
+position: absolute;
+width: 209.9px;
+height: 853.56px;
+left: 1338px;
+top: 23px;
+}
+.futb{
+position: absolute;
+width: 209.9px;
+height: 854.35px;
+left: 53px;
+top: 24px;  
+}
+.st1{
+  position: absolute;
+  width: 778.3px;
+  height: 53.33px;
+  left: 412px;
+  top: 158px;
+
+}
+.st2{
+position: absolute;
+width: 778.3px;
+height: 53.33px;
+left: 412px;
+top: 414px;
+  
+  }
+.st3{
+position: absolute;
+width: 778.3px;
+height: 53.33px;
+left: 412px;
+top: 547px;    
+ }
+ .st4{
+  position: absolute;
+  width: 778.3px;
+  height: 53.33px;
+  left: 412px;
+  top: 696px;    
+   }
